@@ -28,7 +28,7 @@ P {
 em strong {
     color: red;
 }
-
+6
 #missao {
     font-size: 20px;
 }
